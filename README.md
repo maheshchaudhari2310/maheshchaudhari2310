@@ -1,6 +1,6 @@
 👋 Hi, I’m @maheshchaudhari2310.
 
-My name is Mahesh Chaudhari. I am a third year B.Tech CSE student studying at D.Y. Patil International University. I am a passionate programmer who loves to automate boring stuff. I have worked on mobile applications,web applications,Data Analyst & Data Mininig using Python and R and python scripts.
+My name is Mahesh Chaudhari. I am a Last year B.Tech CSE student studying at D.Y. Patil International University. I am a passionate programmer who loves to automate boring stuff. I have worked on mobile applications,web applications,Data Analyst & Data Mininig using Python and R and python scripts.
 
 Languages Known: C, C++, Python, R, Java, HTML, CSS, Dart, SQL, Javascript, PHP, Node.js
 
